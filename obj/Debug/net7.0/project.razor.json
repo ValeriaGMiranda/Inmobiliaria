@@ -18645,6 +18645,21 @@
   "RootNamespace": "Inmobiliaria",
   "Documents": [
     {
+      "FilePath": "c:\\Users\\Valeria\\Desktop\\UNIVERSIDAD\\2° PROGRAMACION EN ENTORNO .NET\\Inmobiliaria\\Views\\Propietarios\\Delete.cshtml",
+      "TargetPath": "Views\\Propietarios\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Valeria\\Desktop\\UNIVERSIDAD\\2° PROGRAMACION EN ENTORNO .NET\\Inmobiliaria\\Views\\Propietarios\\Index.cshtml",
+      "TargetPath": "Views\\Propietarios\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Valeria\\Desktop\\UNIVERSIDAD\\2° PROGRAMACION EN ENTORNO .NET\\Inmobiliaria\\Views\\Inquilinos\\Delete.cshtml",
+      "TargetPath": "Views\\Inquilinos\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\Valeria\\Desktop\\UNIVERSIDAD\\2° PROGRAMACION EN ENTORNO .NET\\Inmobiliaria\\Views\\Shared\\Error.cshtml",
       "TargetPath": "Views\\Shared\\Error.cshtml",
       "FileKind": "mvc"
@@ -18652,6 +18667,16 @@
     {
       "FilePath": "c:\\Users\\Valeria\\Desktop\\UNIVERSIDAD\\2° PROGRAMACION EN ENTORNO .NET\\Inmobiliaria\\Views\\_ViewStart.cshtml",
       "TargetPath": "Views\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Valeria\\Desktop\\UNIVERSIDAD\\2° PROGRAMACION EN ENTORNO .NET\\Inmobiliaria\\Views\\Propietarios\\Details.cshtml",
+      "TargetPath": "Views\\Propietarios\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Valeria\\Desktop\\UNIVERSIDAD\\2° PROGRAMACION EN ENTORNO .NET\\Inmobiliaria\\Views\\Propietarios\\Create.cshtml",
+      "TargetPath": "Views\\Propietarios\\Create.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -18665,6 +18690,26 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\Valeria\\Desktop\\UNIVERSIDAD\\2° PROGRAMACION EN ENTORNO .NET\\Inmobiliaria\\Views\\Propietarios\\Edit.cshtml",
+      "TargetPath": "Views\\Propietarios\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Valeria\\Desktop\\UNIVERSIDAD\\2° PROGRAMACION EN ENTORNO .NET\\Inmobiliaria\\Views\\Inquilinos\\Index.cshtml",
+      "TargetPath": "Views\\Inquilinos\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Valeria\\Desktop\\UNIVERSIDAD\\2° PROGRAMACION EN ENTORNO .NET\\Inmobiliaria\\Views\\Inquilinos\\Details.cshtml",
+      "TargetPath": "Views\\Inquilinos\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Valeria\\Desktop\\UNIVERSIDAD\\2° PROGRAMACION EN ENTORNO .NET\\Inmobiliaria\\Views\\Inquilinos\\Edit.cshtml",
+      "TargetPath": "Views\\Inquilinos\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\Valeria\\Desktop\\UNIVERSIDAD\\2° PROGRAMACION EN ENTORNO .NET\\Inmobiliaria\\Views\\Shared\\_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
@@ -18672,6 +18717,11 @@
     {
       "FilePath": "c:\\Users\\Valeria\\Desktop\\UNIVERSIDAD\\2° PROGRAMACION EN ENTORNO .NET\\Inmobiliaria\\Views\\Home\\Privacy.cshtml",
       "TargetPath": "Views\\Home\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Valeria\\Desktop\\UNIVERSIDAD\\2° PROGRAMACION EN ENTORNO .NET\\Inmobiliaria\\Views\\Inquilinos\\Create.cshtml",
+      "TargetPath": "Views\\Inquilinos\\Create.cshtml",
       "FileKind": "mvc"
     },
     {
